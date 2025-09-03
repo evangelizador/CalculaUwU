@@ -1,6 +1,6 @@
 function agregar(valor) {
   document.getElementById('pantalla').value += valor;
-
+}
 
 function calcular() {
   try {
