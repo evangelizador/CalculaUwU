@@ -98,7 +98,7 @@ function limpiar() {
 Acción:
 Reinicia el valor de la pantalla, dejándola vacía.
 
- Flujo de funcionamiento
+Flujo de funcionamiento:
 
 El usuario pulsa un botón (ejemplo: 5).
 
